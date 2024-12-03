@@ -1,0 +1,9 @@
+{
+  "flowers": [
+    { "id": 1, "name": "Rose", "color": "Red" },
+    { "id": 2, "name": "Tulip", "color": "Yellow" }
+  ],
+  "orders": [
+    { "id": 1, "customer": "Oumayma", "flower": "Rose", "quantity": 2 }
+  ]
+}
