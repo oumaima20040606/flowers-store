@@ -1,9 +1,14 @@
 {
-  "flowers": [
-    { "id": 1, "name": "Rose", "color": "Red" },
-    { "id": 2, "name": "Tulip", "color": "Yellow" }
-  ],
-  "orders": [
-    { "id": 1, "customer": "Oumayma", "flower": "Rose", "quantity": 2 }
+  "events": [
+    {
+      "id": 1,
+      "name": "Fête des Fleurs",
+      "date": "2024-12-15"
+    },
+    {
+      "id": 2,
+      "name": "Marché de Noël",
+      "date": "2024-12-20"
+    }
   ]
 }
