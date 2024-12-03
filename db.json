@@ -1,14 +1,28 @@
 {
-  "events": [
+  "flowers": [
     {
-      "id": 1,
-      "name": "Fête des Fleurs",
-      "date": "2024-12-15"
+      "idflower": 1,
+      "name_flower": "Rose",
+      "category": "Bouquet",
+      "description_flower": "Une belle rose rouge.",
+      "Prix": 10,
+      "avatar": "https://example.com/rose.jpg"
     },
     {
-      "id": 2,
-      "name": "Marché de Noël",
-      "date": "2024-12-20"
+      "idflower": 2,
+      "name_flower": "Tulipe",
+      "category": "Fleur",
+      "description_flower": "Une tulipe colorée.",
+      "Prix": 15,
+      "avatar": "https://example.com/tulip.jpg"
+    },
+    {
+      "idflower": 3,
+      "name_flower": "Lys",
+      "category": "Fleur",
+      "description_flower": "Un lys blanc parfumé.",
+      "Prix": 12,
+      "avatar": "https://example.com/lily.jpg"
     }
   ]
 }
