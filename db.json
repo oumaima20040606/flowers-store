@@ -1,28 +1,112 @@
 {
-  "flowers": [
+  "events": [
     {
-      "idflower": 1,
-      "name_flower": "Rose",
-      "category": "Bouquet",
-      "description_flower": "Une belle rose rouge.",
-      "Prix": 10,
-      "avatar": "https://example.com/rose.jpg"
+      "id": 10,
+      "name_flower": "New Merlin Flowers",
+      "description_flower": "A stunning and fragrant red and white rose bouquet",
+      "nbr_flower": 15,
+      "status": "enable",
+      "avatar": "/flowers/w1.jpg",
+      "Prix": 15
     },
     {
-      "idflower": 2,
-      "name_flower": "Tulipe",
-      "category": "Fleur",
-      "description_flower": "Une tulipe colorée.",
-      "Prix": 15,
-      "avatar": "https://example.com/tulip.jpg"
+      "id": 11,
+      "name_flower": "The Defodills",
+      "description_flower": "Lovely pink and white bouquet with an elegant touch",
+      "nbr_flower": 20,
+      "status": "enable",
+      "avatar": "/flowers/w2.jpg",
+      "Prix": 20
     },
     {
-      "idflower": 3,
-      "name_flower": "Lys",
-      "category": "Fleur",
-      "description_flower": "Un lys blanc parfumé.",
-      "Prix": 12,
-      "avatar": "https://example.com/lily.jpg"
+      "id": 12,
+      "name_flower": "One piece bodysuit",
+      "description_flower": "A charming mix of white and pink flowers in this delightful bouquet",
+      "nbr_flower": 18,
+      "status": "enable",
+      "avatar": "/flowers/w3.jpg",
+      "Prix": 15
+    },
+    {
+      "id": 13,
+      "name_flower": "Caribbean twist",
+      "description_flower": "A blissful combination of pink and white blooms in this delightful bouquet",
+      "nbr_flower": 22,
+      "status": "enable",
+      "avatar": "/flowers/w4.jpg",
+      "Prix": 20
+    },
+    {
+      "id": 14,
+      "name_flower": "Green Dress with details",
+      "description_flower": "A vibrant and eye-catching bouquet with pink and white tulips",
+      "nbr_flower": 17,
+      "status": "enable",
+      "avatar": "/flowers/w5.jpg",
+      "Prix": 50
+    },
+    {
+      "id": 15,
+      "name_flower": "HappyEarth",
+      "description_flower": "A pure and elegant white daisy bouquet",
+      "nbr_flower": 12,
+      "status": "enable",
+      "avatar": "/flowers/w6.jpg",
+      "Prix": 25
+    },
+    {
+      "id": 16,
+      "name_flower": "Le Messa",
+      "description_flower": "A fancy bouquet with white and pink sunflowers",
+      "nbr_flower": 19,
+      "status": "enable",
+      "avatar": "/flowers/w7.jpg",
+      "Prix": 17
+    },
+    {
+      "id": 17,
+      "name_flower": "Diamond Devotion",
+      "description_flower": "A graceful and charming pink carnation bouquet",
+      "nbr_flower": 14,
+      "status": "enable",
+      "avatar": "/flowers/w8.jpg",
+      "Prix": 30
+    },
+    {
+      "id": 18,
+      "name_flower": "Always Flowers",
+      "description_flower": "An enchanting combination of white and pink hydrangeas",
+      "nbr_flower": 6,
+      "status": "enable",
+      "avatar": "/flowers/w9.jpg",
+      "Prix": 10
+    },
+    {
+      "id": 19,
+      "name_flower": "Lily Love",
+      "description_flower": "A radiant and captivating pink gerbera bouquet",
+      "nbr_flower": 21,
+      "status": "enable",
+      "avatar": "/flowers/w10.jpg",
+      "Prix": 40
+    },
+    {
+      "id": 20,
+      "name_flower": "Ladies Day",
+      "description_flower": "A magical bouquet with pink and white irises",
+      "nbr_flower": 23,
+      "status": "enable",
+      "avatar": "/flowers/w11.jpg",
+      "Prix": 13
+    },
+    {
+      "id": 21,
+      "name_flower": "PlayCave Flowers",
+      "description_flower": "An exquisite combination of pink, red, and white violets in this stunning bouquet",
+      "nbr_flower": 26,
+      "status": "enable",
+      "avatar": "/flowers/w12.jpg",
+      "Prix": 20
     }
   ]
 }
